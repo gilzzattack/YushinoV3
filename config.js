@@ -69,8 +69,8 @@ global.stickauth = `© Noname_bot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Pikk Kenzy'
-global.nameown2 = 'Pikk XD'
+global.nameown1= 'Noname_Bot'
+global.nameown2 = 'NONAME'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/gilzzx'
