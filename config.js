@@ -39,33 +39,33 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281384494692', 'Pikk XD', true],
-['6281384494692', 'Pikk Kenzy', true]
+['6289509580454', 'Noname', true],
+['6289509580454', 'Noname_Botz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '77479918368'
-global.nomorown = '6281384494692'
-global.nomorown1 = '6281384494692'
-global.nomorown2 = '6281384494692'
+global.nomorbot = '6281247082169'
+global.nomorown = '6289509580454'
+global.nomorown1 = '6289509580454'
+global.nomorown2 = '6289509580454'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Pikk XD'
-global.namebot = 'Pikk - MD'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Pikk XD'
+global.author = 'Created By Noname_Botz'
+global.namebot = 'Noname_Botz'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Noname_Bot'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'Pikk XD'
+global.wm2 = 'Noname_Bot'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Pikk - MD`
-global.stickpack = 'Pikk - MD'
-global.stickauth = `© Pikk - MD`
+global.titlebot = `Noname_Bot`
+global.stickpack = 'Noname_Bot'
+global.stickauth = `© Noname_bot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -306,7 +306,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/rdtyzagilz"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813-8449-4692'
+global.phn = '0895-0958-0454'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
